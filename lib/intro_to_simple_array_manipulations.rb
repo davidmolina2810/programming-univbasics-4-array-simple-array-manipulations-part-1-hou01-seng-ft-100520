@@ -17,3 +17,8 @@ end
 def pop_with_args(array)
   array.pop(2)
 end
+
+#method that will take in an array as arg and .shift the first element and return it
+def using_shift(array)
+  array.shift
+end
